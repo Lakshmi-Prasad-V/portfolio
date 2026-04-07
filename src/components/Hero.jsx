@@ -30,6 +30,7 @@ function Hero() {
               Download Resume
             </a>
             <a
+              href="#contact"
             className="border border-black px-6 py-2 rounded-lg hover:bg-black hover:text-white">
               Contact Me
             </a>
