@@ -29,10 +29,10 @@ function Hero() {
             >
               Download Resume
             </a>
-
-            <button className="border border-black px-6 py-2 rounded-lg hover:bg-black hover:text-white">
+            <a
+            className="border border-black px-6 py-2 rounded-lg hover:bg-black hover:text-white">
               Contact Me
-            </button>
+            </a>
           </div>
         </div>
 
